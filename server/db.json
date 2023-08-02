@@ -1,0 +1,282 @@
+{
+  "menu": [
+    {
+      "title": "Air Mineral (600L)",
+      "price": 10000,
+      "isAvailable": true,
+      "category": "drink",
+      "image": "https://png.pngtree.com/element_our/png/20180930/food-icon-design-vector-png_120564.jpg",
+      "id": 1
+    },
+    {
+      "title": "Black Coffee",
+      "price": 12000,
+      "isAvailable": true,
+      "category": "drink",
+      "image": "https://png.pngtree.com/element_our/png/20180930/food-icon-design-vector-png_120564.jpg",
+      "id": 2
+    },
+    {
+      "title": "Burger",
+      "price": 28000,
+      "isAvailable": true,
+      "category": "food",
+      "image": "https://png.pngtree.com/element_our/png/20180930/food-icon-design-vector-png_120564.jpg",
+      "id": 3
+    },
+    {
+      "title": "Chicken Smack Down",
+      "price": 25000,
+      "isAvailable": true,
+      "category": "food",
+      "image": "https://png.pngtree.com/element_our/png/20180930/food-icon-design-vector-png_120564.jpg",
+      "id": 4
+    },
+    {
+      "title": "Fry Rice - Seafood",
+      "price": 35000,
+      "isAvailable": true,
+      "category": "food",
+      "image": "https://png.pngtree.com/element_our/png/20180930/food-icon-design-vector-png_120564.jpg",
+      "id": 5
+    },
+    {
+      "title": "Fry Rice (General)",
+      "price": 28000,
+      "isAvailable": true,
+      "category": "food",
+      "image": "https://png.pngtree.com/element_our/png/20180930/food-icon-design-vector-png_120564.jpg",
+      "id": 6
+    },
+    {
+      "title": "Vitnam Drip",
+      "price": 18000,
+      "isAvailable": true,
+      "category": "drink",
+      "image": "https://png.pngtree.com/element_our/png/20180930/food-icon-design-vector-png_120564.jpg",
+      "id": 7
+    }
+  ],
+  "order": [
+    {
+      "tax": 0.11,
+      "isPaidOff": true,
+      "finalPrice": 942390,
+      "cash": 1000000,
+      "change": 57610,
+      "payDate": "2023-02-01T16:33:07.934Z",
+      "customer": "Gunawan",
+      "listOrder": [
+        {
+          "item": {
+            "title": "Chicken Smack Down",
+            "price": 25000,
+            "isAvailable": true,
+            "category": "food",
+            "image": "https://png.pngtree.com/element_our/png/20180930/food-icon-design-vector-png_120564.jpg",
+            "id": 4
+          },
+          "quantity": 4,
+          "total": 100000
+        },
+        {
+          "item": {
+            "title": "Burger",
+            "price": 28000,
+            "isAvailable": true,
+            "category": "food",
+            "image": "https://png.pngtree.com/element_our/png/20180930/food-icon-design-vector-png_120564.jpg",
+            "id": 3
+          },
+          "quantity": 3,
+          "total": 84000
+        },
+        {
+          "item": {
+            "title": "Fry Rice - Seafood",
+            "price": 35000,
+            "isAvailable": true,
+            "category": "food",
+            "image": "https://png.pngtree.com/element_our/png/20180930/food-icon-design-vector-png_120564.jpg",
+            "id": 5
+          },
+          "quantity": 7,
+          "total": 245000
+        },
+        {
+          "item": {
+            "title": "Fry Rice (General)",
+            "price": 28000,
+            "isAvailable": true,
+            "category": "food",
+            "image": "https://png.pngtree.com/element_our/png/20180930/food-icon-design-vector-png_120564.jpg",
+            "id": 6
+          },
+          "quantity": 2,
+          "total": 56000
+        },
+        {
+          "item": {
+            "title": "Air Mineral (600L)",
+            "price": 10000,
+            "isAvailable": true,
+            "category": "drink",
+            "image": "https://png.pngtree.com/element_our/png/20180930/food-icon-design-vector-png_120564.jpg",
+            "id": 1
+          },
+          "quantity": 16,
+          "total": 160000
+        },
+        {
+          "item": {
+            "title": "Black Coffee",
+            "price": 12000,
+            "isAvailable": true,
+            "category": "drink",
+            "image": "https://png.pngtree.com/element_our/png/20180930/food-icon-design-vector-png_120564.jpg",
+            "id": 2
+          },
+          "quantity": 5,
+          "total": 60000
+        },
+        {
+          "item": {
+            "title": "Vitnam Drip",
+            "price": 18000,
+            "isAvailable": true,
+            "category": "drink",
+            "image": "https://png.pngtree.com/element_our/png/20180930/food-icon-design-vector-png_120564.jpg",
+            "id": 7
+          },
+          "quantity": 8,
+          "total": 144000
+        }
+      ],
+      "totalAmount": 849000,
+      "orderRef": "AJUVDGUN-131-22",
+      "atCreate": "2023-02-01T16:31:22.280Z",
+      "id": 1
+    },
+    {
+      "tax": 0.11,
+      "isPaidOff": true,
+      "finalPrice": 264180,
+      "cash": 300000,
+      "change": 35820,
+      "payDate": "2023-02-01T17:58:04.318Z",
+      "customer": "babila",
+      "listOrder": [
+        {
+          "item": {
+            "title": "Air Mineral (600L)",
+            "price": 10000,
+            "isAvailable": true,
+            "category": "drink",
+            "image": "https://png.pngtree.com/element_our/png/20180930/food-icon-design-vector-png_120564.jpg",
+            "id": 1
+          },
+          "quantity": 3,
+          "total": 30000
+        },
+        {
+          "item": {
+            "title": "Black Coffee",
+            "price": 12000,
+            "isAvailable": true,
+            "category": "drink",
+            "image": "https://png.pngtree.com/element_our/png/20180930/food-icon-design-vector-png_120564.jpg",
+            "id": 2
+          },
+          "quantity": 2,
+          "total": 24000
+        },
+        {
+          "item": {
+            "title": "Burger",
+            "price": 28000,
+            "isAvailable": true,
+            "category": "food",
+            "image": "https://png.pngtree.com/element_our/png/20180930/food-icon-design-vector-png_120564.jpg",
+            "id": 3
+          },
+          "quantity": 4,
+          "total": 112000
+        },
+        {
+          "item": {
+            "title": "Vitnam Drip",
+            "price": 18000,
+            "isAvailable": true,
+            "category": "drink",
+            "image": "https://png.pngtree.com/element_our/png/20180930/food-icon-design-vector-png_120564.jpg",
+            "id": 7
+          },
+          "quantity": 4,
+          "total": 72000
+        }
+      ],
+      "totalAmount": 238000,
+      "orderRef": "9SUVJBAB-257-22",
+      "atCreate": "2023-02-01T17:57:52.359Z",
+      "id": 2
+    },
+    {
+      "customer": "Komang",
+      "listOrder": [
+        {
+          "item": {
+            "title": "Air Mineral (600L)",
+            "price": 10000,
+            "isAvailable": true,
+            "category": "drink",
+            "image": "https://png.pngtree.com/element_our/png/20180930/food-icon-design-vector-png_120564.jpg",
+            "id": 1
+          },
+          "quantity": 6,
+          "total": 60000
+        },
+        {
+          "item": {
+            "title": "Chicken Smack Down",
+            "price": 25000,
+            "isAvailable": true,
+            "category": "food",
+            "image": "https://png.pngtree.com/element_our/png/20180930/food-icon-design-vector-png_120564.jpg",
+            "id": 4
+          },
+          "quantity": 3,
+          "total": 75000
+        },
+        {
+          "item": {
+            "title": "Vitnam Drip",
+            "price": 18000,
+            "isAvailable": true,
+            "category": "drink",
+            "image": "https://png.pngtree.com/element_our/png/20180930/food-icon-design-vector-png_120564.jpg",
+            "id": 7
+          },
+          "quantity": 3,
+          "total": 54000
+        },
+        {
+          "item": {
+            "title": "Black Coffee",
+            "price": 12000,
+            "isAvailable": true,
+            "category": "drink",
+            "image": "https://png.pngtree.com/element_our/png/20180930/food-icon-design-vector-png_120564.jpg",
+            "id": 2
+          },
+          "quantity": 4,
+          "total": 48000
+        }
+      ],
+      "totalAmount": 237000,
+      "orderRef": "A8416KOM-192-28",
+      "isPaidOff": false,
+      "atCreate": "2023-08-02T10:02:47.918Z",
+      "id": 3
+    }
+  ]
+}
